@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BBEditDocumentType</key>
+	<string>CodelessLanguageModule</string>
+	<key>BBLMColorsSyntax</key>
+	<true/>
+	<key>BBLMIsCaseSensitive</key>
+	<true/>
+	<key>BBLMLanguageCode</key>
+	<string>iMac</string>
+	<key>BBLMLanguageDisplayName</key>
+	<string>iMacros</string>
+	<key>BBLMScansFunctions</key>
+	<false/>
+	<key>BBLMSuffixMap</key>
+	<array>
+		<dict>
+			<key>BBLMIsHeaderKind</key>
+			<false/>
+			<key>BBLMIsSourceKind</key>
+			<true/>
+			<key>BBLMLanguageSuffix</key>
+			<string>.iim</string>
+		</dict>
+	</array>
+	<key>Language Features</key>
+	<dict>
+		<key>Close Block Comments</key>
+		<string></string>
+		<key>Close Parameter Lists</key>
+		<string></string>
+		<key>Close Statement Blocks</key>
+		<string></string>
+		<key>Close Strings 1</key>
+		<string>&quot;</string>
+		<key>Close Strings 2</key>
+		<string></string>
+		<key>End-of-line Ends Strings 1</key>
+		<false/>
+		<key>End-of-line Ends Strings 2</key>
+		<false/>
+		<key>Escape Char in Strings 1</key>
+		<string>\</string>
+		<key>Escape Char in Strings 2</key>
+		<string></string>
+		<key>Identifier and Keyword Characters</key>
+		<string>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxy!</string>
+		<key>Open Block Comments</key>
+		<string></string>
+		<key>Open Line Comments</key>
+		<string>&apos;</string>
+		<key>Open Parameter Lists</key>
+		<string></string>
+		<key>Open Statement Blocks</key>
+		<string></string>
+		<key>Open Strings 1</key>
+		<string>&quot;</string>
+		<key>Open Strings 2</key>
+		<string></string>
+		<key>Prefix for Functions</key>
+		<string></string>
+		<key>Prefix for Procedures</key>
+		<string></string>
+		<key>Terminator for Prototypes 1</key>
+		<string></string>
+		<key>Terminator for Prototypes 2</key>
+		<string></string>
+	</dict>
+	<key>BBLMKeywordList</key>
+	<array>
+		<string>A</string>
+		<string>ADD</string>
+		<string>ADDRESS</string>
+		<string>ALGORITHM</string>
+		<string>ALT</string>
+		<string>ATTR</string>
+		<string>B</string>
+		<string>BACK</string>
+		<string>BMP</string>
+		<string>BROWSER</string>
+		<string>BUILD</string>
+		<string>BUTTON</string>
+		<string>BYPASS</string>
+		<string>C</string>
+		<string>CANCEL</string>
+		<string>CHECKED</string>
+		<string>CHECKSUM</string>
+		<string>CLEAR</string>
+		<string>CLICK</string>
+		<string>CLOSE</string>
+		<string>CLOSEALLOTHERS</string>
+		<string>CMD</string>
+		<string>CONFIDENCE</string>
+		<string>CONTENT</string>
+		<string>CONTINUE</string>
+		<string>CPL</string>
+		<string>DOWN</string>
+		<string>DS</string>
+		<string>ENTER</string>
+		<string>EVAL</string>
+		<string>EVENT</string>
+		<string>EXTRACT</string>
+		<string>F</string>
+		<string>FAIL_IF_FOUND</string>
+		<string>FILE</string>
+		<string>FILEDELETE</string>
+		<string>FILTER</string>
+		<string>FOLDER</string>
+		<string>FORM</string>
+		<string>FRAME</string>
+		<string>GOTO</string>
+		<string>HIDE</string>
+		<string>HREF</string>
+		<string>HTM</string>
+		<string>ID</string>
+		<string>IGNORE_CASE</string>
+		<string>IMAGE</string>
+		<string>IMAGECLICK</string>
+		<string>IMAGES</string>
+		<string>IMAGESEARCH</string>
+		<string>JPEG</string>
+		<string>KEY</string>
+		<string>KEYS</string>
+		<string>LDBLCLK</string>
+		<string>LDOWN</string>
+		<string>LUP</string>
+		<string>MACRO</string>
+		<string>MD5</string>
+		<string>MDBLCLK</string>
+		<string>MDOWN</string>
+		<string>MHT</string>
+		<string>MOUSEOVER</string>
+		<string>MOVETO</string>
+		<string>MUP</string>
+		<string>NAME</string>
+		<string>NO</string>
+		<string>OFF</string>
+		<string>OK</string>
+		<string>ON</string>
+		<string>ONCERTIFICATEDIALOG</string>
+		<string>ONDIALOG</string>
+		<string>ONDOWNLOAD</string>
+		<string>ONERRORDIALOG</string>
+		<string>ONLOGIN</string>
+		<string>ONPRINT</string>
+		<string>ONSECURITYDIALOG</string>
+		<string>ONWEBPAGEDIALOG</string>
+		<string>OPEN</string>
+		<string>P</string>
+		<string>PAGE</string>
+		<string>PASSWORD</string>
+		<string>PAUSE</string>
+		<string>PNG</string>
+		<string>POS</string>
+		<string>PRINT</string>
+		<string>PROMPT</string>
+		<string>PROXY</string>
+		<string>RDBLCLK</string>
+		<string>RECORDER</string>
+		<string>REFRESH</string>
+		<string>REGEXP</string>
+		<string>RETRY</string>
+		<string>RUP</string>
+		<string>SAVE_ELEMENT_SCREENSHOT</string>
+		<string>SAVEAS</string>
+		<string>SAVEITEM</string>
+		<string>SAVETARGETAS</string>
+		<string>SCREENSHOT</string>
+		<string>SEARCH</string>
+		<string>SECONDS</string>
+		<string>SET</string>
+		<string>SHA</string>
+		<string>SHOW</string>
+		<string>SIZE</string>
+		<string>SOURCE</string>
+		<string>STATUS</string>
+		<string>STOPWATCH</string>
+		<string>T</string>
+		<string>TAB</string>
+		<string>TAG</string>
+		<string>TEXT</string>
+		<string>TITLE</string>
+		<string>TRAY</string>
+		<string>TXT</string>
+		<string>TXTALL</string>
+		<string>TYPE</string>
+		<string>UP</string>
+		<string>URL</string>
+		<string>USER</string>
+		<string>VERSION</string>
+		<string>WAIT</string>
+		<string>X</string>
+		<string>Y</string>
+		<string>YES</string>
+		<string>!CLIPBOARD</string>
+		<string>!COLn</string>
+		<string>!DATASOURCE_COLUMNS</string>
+		<string>!DATASOURCE_DELIMITER</string>
+		<string>!DATASOURCE_LINE</string>
+		<string>!DATASOURCE</string>
+		<string>!ENCRYPTION</string>
+		<string>!ENDOFPAGE</string>
+		<string>!ERRORIGNORE</string>
+		<string>!EXTRACT_TEST_POPUP</string>
+		<string>!EXTRACT</string>
+		<string>!EXTRACTDIALOG</string>
+		<string>!FAIL_ON_ALL_NAVIGATEERRORS</string>
+		<string>!FILE_PROFILER</string>
+		<string>!FILELOG</string>
+		<string>!FILESTOPWATCH</string>
+		<string>!FOLDER_DATASOURCE</string>
+		<string>!FOLDER_STOPWATCH</string>
+		<string>!IMAGEX</string>
+		<string>!IMAGEY</string>
+		<string>!LOOP</string>
+		<string>!MARKOBJECT</string>
+		<string>!NOW</string>
+		<string>!POPUP_ALLOWED</string>
+		<string>!REGION_BOTTOM</string>
+		<string>!REGION_LEFT</string>
+		<string>!REGION_RIGHT</string>
+		<string>!REGION_TOP</string>
+		<string>!REPLAYSPEED</string>
+		<string>!SINGLESTEP</string>
+		<string>!STOPWATCH_HEADER</string>
+		<string>!STOPWATCHTIME</string>
+		<string>!TAGSOURCEINDEX</string>
+		<string>!TAGX</string>
+		<string>!TAGY</string>
+		<string>!TIMEOUT_MACRO</string>
+		<string>!TIMEOUT_PAGE</string>
+		<string>!TIMEOUT_STEP</string>
+		<string>!TIMEOUT</string>
+		<string>!URLCURRENT</string>
+		<string>!USERAGENT</string>
+		<string>!VAR0</string>
+		<string>!VAR1</string>
+		<string>!VAR2</string>
+		<string>!VAR3</string>
+		<string>!VAR4</string>
+		<string>!VAR5</string>
+		<string>!VAR6</string>
+		<string>!VAR7</string>
+		<string>!VAR8</string>
+		<string>!VAR9</string>
+		<string>!WAITPAGECOMPLETE</string>
+		<string>#ERASEALL# </string>
+		<string>#DOWNLOADCOMPLETE#</string>
+	</array>
+</dict>
+</plist>
